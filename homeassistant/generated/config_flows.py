@@ -556,6 +556,7 @@ FLOWS = {
         "version",
         "vesync",
         "vicare",
+        "victronmqtt",
         "vilfo",
         "vizio",
         "vlc_telnet",

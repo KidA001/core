@@ -6416,6 +6416,12 @@
       "config_flow": true,
       "iot_class": "cloud_polling"
     },
+    "victronmqtt": {
+      "name": "Victron MQTT",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "vilfo": {
       "name": "Vilfo Router",
       "integration_type": "hub",

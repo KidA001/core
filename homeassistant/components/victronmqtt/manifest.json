@@ -1,0 +1,13 @@
+{
+  "domain": "victronmqtt",
+  "name": "Victron MQTT",
+  "codeowners": ["@KidA001"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/victronmqtt",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
